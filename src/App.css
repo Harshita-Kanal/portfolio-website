@@ -2,20 +2,35 @@
   text-align: center;
 }
 
-p {
+.head {
 font-size: xx-large ;
+color: azure;
+padding-bottom: 100px;
+}
+.display-3{
+  padding-top: 100px;
+  color: azure;
 }
 
 .jumbotron{
 background: black;
-color: azure;
+
 }
 
 .particles{
- position: absolute;
-    z-index: -1;
+    position:absolute;
     top : 0;
     bottom : 0;
     width:100%;
     height: 100%;
+    z-index: -1;
+    background-color:#000000;
 }
+
+ .wrapper{
+   
+    position: relative;
+  
+ }
+
+
