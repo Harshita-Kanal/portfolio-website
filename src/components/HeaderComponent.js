@@ -28,6 +28,9 @@ class Header extends Component{
                 <p className = "head">
                     Hi, I am <strong>Harshita</strong>,a Tech-student and a developer  
                 </p>
+                <div className = "mybutton">
+                    <a role="button" className="btn btn-outline-light" href="https://github.com/Harshita-Kanal">View on GitHub</a>
+                </div>
              
           
         </div>   
