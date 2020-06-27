@@ -8,7 +8,7 @@ color: azure;
 padding-bottom: 100px;
 }
 .display-3{
-  padding-top: 100px;
+  padding-top: 200px;
   color: azure;
 }
 
@@ -30,12 +30,13 @@ background: black;
  .wrapper{
    
     position: relative;
+    
   
  }
 
  .mybutton{
 
-  padding-bottom: 100px;
+  padding-bottom: 200px;
 
  }
 
