@@ -17,7 +17,28 @@ class Header extends Component{
                             }
                         },
                     },
-                }}
+                    interactivity : {
+                        detect_on: "canvas",
+                        events : {
+                        onhover: {
+                        enable: true,
+                        mode: [
+                                "grab",
+                                "bubble"
+                            ]
+                           },
+
+                        },
+                        modes: {
+                            "grab": {
+                                distance: 400,
+                                line_linked: {
+                                opacity: 0.7
+                                }
+                            }
+                    }
+                }
+            }}
             />      
         <div >
                    
@@ -26,7 +47,7 @@ class Header extends Component{
                 </h1>
                
                 <p className = "head">
-                    Hi, I am <strong>Harshita</strong>, a Tech-student and a developer  
+                    Hi, I am <strong>Harshita</strong>, a Tech-student and a developer
                 </p>
                 <div className = "mybutton">
                     <a role="button" className="btn btn-outline-light" href="https://github.com/Harshita-Kanal">View on GitHub</a>
