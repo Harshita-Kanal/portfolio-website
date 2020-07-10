@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
+import About from './components/AboutMe/AboutMe';
 import Header from './components/HeaderComponent';
 import { render } from '@testing-library/react';
 import Particles from 'react-particles-js';
@@ -13,7 +14,8 @@ class App extends Component {
   return (
     <div className="App">   
      <Header />
-     <h1> Projects </h1>     
+     <br />
+     <About />    
     </div>
   );
 }

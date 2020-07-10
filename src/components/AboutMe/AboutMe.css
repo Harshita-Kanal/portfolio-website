@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css');
+
+h1{
+    font-family:'Acme', sans-serif;
+    margin: 0px;
+}
+
+.underline{
+    width:60px;
+    background-color: black;
+    height:5px;
+    margin-top: 1px;
+}
+
+.item{
+    font-family: 'Montserrat', sans-serif;
+    text-align: start;
+    animation: slideInLeft;
+    font-weight: 200;
+}
+
+img{
+     width: 100%;
+    max-width: 400px;
+    height: 300px;
+}
