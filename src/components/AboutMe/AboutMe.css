@@ -4,6 +4,7 @@
 h1{
     font-family:'Acme', sans-serif;
     margin: 0px;
+    
 }
 
 .underline{
@@ -11,6 +12,7 @@ h1{
     background-color: black;
     height:5px;
     margin-top: 1px;
+    
 }
 
 .item{
@@ -24,4 +26,8 @@ img{
      width: 100%;
     max-width: 400px;
     height: 300px;
+}
+
+.mytitle{
+    margin-top: 20px;
 }
