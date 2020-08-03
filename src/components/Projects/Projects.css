@@ -16,7 +16,7 @@ h1{
 }
 
 .item{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
     text-align: start;
     animation: slideInLeft;
     font-weight: 200;
