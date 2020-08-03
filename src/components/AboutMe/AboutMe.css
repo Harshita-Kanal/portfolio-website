@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 h1{
     font-family:'Acme', sans-serif;
     margin: 0px;
@@ -30,4 +30,11 @@ img{
 
 .mytitle{
     margin-top: 20px;
+}
+
+.flow-text{
+    font-family: 'Montserrat';
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
 }
