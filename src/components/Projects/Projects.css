@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat&display=swap');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat:wght@600&display=swap');
 
 h1{
     font-family:'Acme', sans-serif;
@@ -30,4 +30,25 @@ img{
 
 .mytitle{
     margin-top: 20px;
+}
+
+.card{
+    height: 320px;
+    border-radius: 40px;
+    
+}
+
+.card-body{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: medium;
+}
+
+.btn-secondary{
+    background-color: #e7016d;
+}
+
+.card-header{
+    font-style: 'Montserrat';
+    font-weight: bold;
 }

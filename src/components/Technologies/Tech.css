@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat&display=swap'); */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat:wght@600&display=swap');
 
 h1{
     font-family:'Acme', sans-serif;
@@ -20,6 +21,7 @@ h1{
     text-align: start;
     animation: slideInLeft;
     font-weight: 200;
+
 }
 
 img{
@@ -35,4 +37,8 @@ img{
 h6{
    font-family: 'Montserrat', sans-serif;
    font-weight: bold; 
+}
+
+.card-panel{
+    border-radius: 40px;
 }

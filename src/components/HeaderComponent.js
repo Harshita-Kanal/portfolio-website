@@ -6,7 +6,7 @@ class Header extends Component{
     render() {
     return(
         <div className = "wrapper">
-            <Particles className = "particles"
+            {/* <Particles className = "particles"
                 params={{
                     particles: {
                         number: {
@@ -39,7 +39,7 @@ class Header extends Component{
                     }
                 }
             }}
-            />      
+            />       */}
         <div >
                    
                 <h1 className = "display-3">
