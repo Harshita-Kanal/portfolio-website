@@ -16,10 +16,21 @@ class About extends Component {
                     <br />
                     <br />
                     <ScrollAnimation animateIn="fadeIn">
+                    <div className = "card">
+                    <div className = "card-body">
                     <p className= "flow-text">
-                            Hey there, thanks for taking out the time to read through my portfolio
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper nibh neque, at interdum augue rhoncus tempor. In vel fringilla libero, sit amet luctus nisl. Proin lobortis ullamcorper sapien laoreet venenatis. Aenean odio massa, molestie at arcu non, facilisis placerat turpis. Integer euismod commodo dui, nec iaculis ex semper at. Mauris suscipit turpis vitae mattis porta. Duis vehicula eleifend eleifend. Proin fermentum purus quis erat semper, sodales mollis leo lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin pretium, massa ut interdum varius, quam nunc ullamcorper nibh, quis euismod magna est malesuada nibh. Quisque aliquam suscipit blandit. Aenean ut pulvinar risus. Vestibulum a arcu euismod, fringilla mi in, efficitur leo. Proin ac sem turpis.
+                            <span className="high">Hi there!</span> <br />
+                            Thanks For taking out the time to look here, you are in for a treat! <br />
+                                    <span className="high" >I am Harshita Kanal,</span> <br/>
+                            A Computer Science undergraduate, Front-End developer and an Open-Source and Machine Learning Enthusiast <br/>
+                            Look around to find my projects, and other involvements. <br/>
+                            I'm currently exploring deep learning and the amazing world of data science <br />
+                            I'm looking to collaborate on anything that you want me to. <br />
+                            I love the world of web, I am passionate about web-technologies <br />
+                            Building products that make an impact in people's lives is my passion.
                     </p>
+                        </div>
+                        </div>
                     </ScrollAnimation>  
                 </div>
             </div>

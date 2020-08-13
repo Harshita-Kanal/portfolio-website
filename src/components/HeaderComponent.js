@@ -40,7 +40,7 @@ class Header extends Component{
                 }
             }}
             />       */}
-        <div >
+        <div className = "headItem">
                    
                 <h1 className = "display-3">
                     Hello World!
@@ -50,7 +50,9 @@ class Header extends Component{
                     Hi, I am <strong>Harshita</strong>, a Tech-student and a developer
                 </p>
                 <div className = "mybutton">
-                    <a role="button" className="btn btn-outline-light" href="https://github.com/Harshita-Kanal">View on GitHub</a>
+                    <a role="button" rel = "noopener noreferrer"  target = "_blank" className="btn btn-outline-light" href="https://github.com/Harshita-Kanal">View on GitHub</a>
+                    <a role="button" rel="noopener noreferrer"  target ="_blank" className="btn btn-outline-light ml-3" href="https://www.linkedin.com/in/harshita-kanal-400563166/">View on Linkedin</a>
+
                 </div>
              
           

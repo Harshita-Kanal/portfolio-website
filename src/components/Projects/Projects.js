@@ -23,7 +23,7 @@ class Project extends Component {
                     <div className = "container">
                         <div className = "row">
                                 <div className = "col-12 col-md-4">
-                                    <div className="card" >
+                                <div className="card myitem"  >
                                        
                                         <div class="card-body">
                                             <h5 class="card-title">Mental-Aid</h5>
@@ -35,19 +35,19 @@ class Project extends Component {
                                     </div>
                                 </div>
                                 <div className = "col-12 col-md-4">
-                                    <div className="card" >
+                                    <div className="card myitem" >
                                        
                                         <div class="card-body">
                                             <h5 class="card-title">Your-Scanner</h5>
                                         
-                                        <p class="card-text">A robust document scanning application capable of performing marking of edges, cropping of images, OCR on images and enhancement and correction of images.</p>
+                                        <p class="card-text">A robust document scanner capable of performing marking of edges, cropping of images, OCR on images and enhancement and correction of images.</p>
                                         <p>Made with: Java, Android SDK</p>
                                         <a href="https://github.com/Harshita-Kanal/Your-Scanner" class="btn btn-secondary">GitHub</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-12 col-md-4">
-                                    <div className="card" >
+                                <div className="card myitem">
                                         <div class="card-body">
                                             <h5 class="card-title">SmartNote</h5>
                                         <p class="card-text">A Web-Application where all of a students' notes could be organized, and tagged according to custom categories and maintained in the cloud.</p>
