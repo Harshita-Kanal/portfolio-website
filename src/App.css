@@ -22,7 +22,10 @@ background: black;
 
 }
 
-
+.btn{
+  font-family: montserrat;
+  font-weight: bold;
+}
 
 .headItem{
   background: rgb(254,7,145);

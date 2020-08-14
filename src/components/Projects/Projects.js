@@ -20,7 +20,9 @@ class Project extends Component {
                       Projects go here
                         </p>
                     </ScrollAnimation> */}
+
                     <div className = "container">
+                        <ScrollAnimation animateIn = "fadeIn">
                         <div className = "row">
                                 <div className = "col-12 col-md-4">
                                 <div className="card myitem"  >
@@ -57,6 +59,7 @@ class Project extends Component {
                                     </div>
                                 </div>
                             </div>
+                            </ScrollAnimation>
                         <div className="row">
                             {/* <div className="col-12 col-md-4">
                                 <div className="card" >
