@@ -61,37 +61,39 @@ class Project extends Component {
                             </div>
                             </ScrollAnimation>
                         <div className="row">
-                            {/* <div className="col-12 col-md-4">
-                                <div className="card" >
+                            <div className="col-12 col-md-4">
+                                <div className="card myitem" >
                                     
                                     <div class="card-body">
                                         <h5 class="card-title">Covid-Helper</h5>
-                                        <p class="card-text">A web application which provides live tracking feature of covid cases, curbs misinformation by providing verified and latest information on covid cases,WHO RSS feeds and news from authentic sources.</p>
-                                        <p>Made with: Python, Django, JavaScript</p>
-                                        <a href="https://github.com/Harshita-Kanal/Covid-News-Helper" class="btn btn-primary"><i class="fab fa-github"></i>GitHub</a>
-                                    </div>
-                                </div>
-                            </div> */}
-                            {/* <div className="col-12 col-md-4">
-                                <div className="card" >
-                                    
-                                    <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <p class="card-text">A web application which provides live tracking feature of covid cases, and latest information on covid cases</p>
+                                        <p>Made with: Django, JavaScript</p>
+                                        <a href="https://github.com/Harshita-Kanal/Covid-News-Helper" class="btn btn-secondary">GitHub</a>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-12 col-md-4">
-                                <div className="card" >
-                                
+                                <div className="card myitem" >
+                                    
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <h5 class="card-title">Krishi-Saathi</h5>
+                                        <p class="card-text">A web-portal to help farmers, providing realtime detection of plant diseases and live farm prices.</p>
+                                        <p>Made with: Tensorflow, Django, JavaScript</p>
+                                        <a href="https://github.com/Harshita-Kanal/Krishi-Saathi" class="btn btn-secondary">GitHub</a>
                                     </div>
                                 </div>
-                            </div> */}
+                            </div>
+                            <div className="col-12 col-md-4">
+                                <div className="card myitem" >
+                                
+                                    <div class="card-body">
+                                        <h5 class="card-title">ChatBot</h5>
+                                        <p class="card-text">An intelligent chatbot, to answer admission queries.Built as a part of a college project.</p>
+                                        <p>Made with: Tensorflow, Django, Python</p>
+                                        <a href="https://github.com/Harshita-Kanal/Chatbot" class="btn btn-secondary">GitHub</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                    
                     </div>
