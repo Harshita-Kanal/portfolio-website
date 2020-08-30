@@ -23,10 +23,13 @@ class About extends Component {
                             Thanks For taking out the time to look here, you are in for a treat! <br />
                                     <span className="high" >I am Harshita Kanal,</span> <br/>
                             A Computer Science undergraduate, Front-End developer and an Open-Source and Machine Learning Enthusiast <br/>
+                            Most of the time when I am not reading code on GitHub and silently admiring the art of writing beautiful code,
+                            I usually bulid things. I certainly believe, that coders are just problem solvers who write code.
+                            Coding, for me is not my profession but my passion.
                             Look around to find my projects, and other involvements. <br/>
-                            I'm currently exploring deep learning and the amazing world of data science <br />
+                            Currently, I am exploring deep learning and the amazing world of data science, also constantly learning new tech. <br />
                             I'm looking to collaborate on anything that you want me to. <br />
-                            I love the world of web, I am passionate about web-technologies <br />
+                            I love the world of web, particularly the side of it which is visible to the user.<br />
                             Building products that make an impact in people's lives is my passion.
                     </p>
                         </div>
