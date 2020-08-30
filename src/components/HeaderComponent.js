@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import {Jumbotron} from 'reactstrap';
 import Particles from 'react-particles-js';
 
 class Header extends Component{

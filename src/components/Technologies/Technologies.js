@@ -11,7 +11,7 @@ class Technology extends Component {
                 <hr className="underline" />
                 <div className="container">
                     
-                    <img src={Tech} />
+                    <img src={Tech} alt = "" />
                     <br />
                     <br />
                     <ScrollAnimation animateIn="fadeIn">

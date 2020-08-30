@@ -12,7 +12,7 @@ class About extends Component {
                 <h1 className = "mytitle">About Me</h1>
                 <hr className = "underline" />
                 <div className = "container">
-                    <img src={Doll} />
+                    <img src={Doll} alt = "" />
                     <br />
                     <br />
                     <ScrollAnimation animateIn="fadeIn">

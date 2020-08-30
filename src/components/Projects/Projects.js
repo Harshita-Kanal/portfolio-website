@@ -12,7 +12,7 @@ class Project extends Component {
                 <h1 className="mytitle">Projects</h1>
                 <hr className="underline" />
                 <div className="container">
-                    <img src={Projects} />
+                    <img src={Projects}  alt = "" />
                     <br />
                     <br />
                     {/* <ScrollAnimation animateIn="fadeIn">

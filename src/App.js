@@ -5,13 +5,10 @@ import Header from './components/HeaderComponent';
 import Technology from './components/Technologies/Technologies';
 import Project from './components/Projects/Projects';
 import Footer from './components/Footer/Footer';
-import { render } from '@testing-library/react';
-import Particles from 'react-particles-js';
+
 
 class App extends Component {
- constructor(props){
-   super(props);
- }
+
 
 
   render(){ 
